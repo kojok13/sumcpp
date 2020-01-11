@@ -1,0 +1,4 @@
+#ignore files .exe
+*.exe
+#ignore files .idea
+*.idea
